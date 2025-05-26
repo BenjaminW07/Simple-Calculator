@@ -1,0 +1,12 @@
+# Ignore class files
+*.class
+
+# Ignore compiled output folders
+bin/
+build/
+
+# VSCode settings (optional)
+.vscode/
+
+# macOS system file
+.DS_Store
